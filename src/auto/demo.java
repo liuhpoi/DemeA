@@ -30,4 +30,8 @@ public class demo {
 		return pro.getProperty(keyname).trim();
 		
 }
+	
+	//---------add by lh 2019/12/30
+	
+	
 }
